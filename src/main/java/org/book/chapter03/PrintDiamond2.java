@@ -1,12 +1,12 @@
 package org.book.chapter03;
 
-public class PrintDiamond {
+public class PrintDiamond2 {
     private boolean mode = true;
 
-    public PrintDiamond() {
+    public PrintDiamond2() {
     }
 
-    public PrintDiamond(boolean mode) {
+    public PrintDiamond2(boolean mode) {
         this.mode = mode;
     }
 
@@ -14,7 +14,7 @@ public class PrintDiamond {
         return (mode ? i : "") + " ".repeat(spaceCnt) + "*".repeat(charCnt);
     }
     public static void main(String[] args) {
-        PrintDiamond printDiamond = new PrintDiamond(false);
+        PrintDiamond2 printDiamond = new PrintDiamond2();
         // space찍는 공식
         int n = 7;
         for (int i = 0; i < n; i++) { // 전체적으로 돌림
