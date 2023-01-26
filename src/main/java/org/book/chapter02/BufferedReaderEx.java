@@ -11,5 +11,7 @@ public class BufferedReaderEx {
         // BufferedReader 선언 및 초기화, InputStreamReader태우기
         BufferedReader br = new BufferedReader(isr);
         System.out.println(br.readLine());
+        // 한줄 추가해 입력 한번 더 받기
+        System.out.println(br.readLine());
     }
 }
