@@ -7,6 +7,10 @@ public class ExThis {
         this.name = name;
     }
 
+    public void ee() {
+
+    }
+
     public static void main(String[] args) {
 
     }
