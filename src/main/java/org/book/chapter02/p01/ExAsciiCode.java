@@ -1,4 +1,4 @@
-package org.book.chapter02;
+package org.book.chapter02.p01;
 
 public class ExAsciiCode {
     public static void main(String[] args) {
