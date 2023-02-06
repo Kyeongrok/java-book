@@ -1,4 +1,4 @@
-package org.book.chapter03;
+package org.book.chapter03.p01;
 
 public class VariableEx {
     public static void main(String[] args) {

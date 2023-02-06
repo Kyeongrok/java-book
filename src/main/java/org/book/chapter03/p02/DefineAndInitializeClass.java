@@ -1,4 +1,4 @@
-package org.book.chapter03;
+package org.book.chapter03.p02;
 
 import org.book.chapter01.PrintHello;
 

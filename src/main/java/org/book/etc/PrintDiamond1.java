@@ -1,4 +1,4 @@
-package org.book.chapter03;
+package org.book.etc;
 
 
 public class PrintDiamond1 {

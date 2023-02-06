@@ -1,4 +1,4 @@
-package org.book.chapter03;
+package org.book.chapter03.p02;
 
 public class InitializeAVariable {
     public static void main(String[] args) {
