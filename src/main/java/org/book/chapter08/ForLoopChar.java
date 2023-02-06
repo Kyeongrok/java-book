@@ -1,6 +1,6 @@
 package org.book.chapter08;
 
-public class ForLoop {
+public class ForLoopChar {
     public static void main(String[] args) {
         String word = "boy";
         int count = 3;
