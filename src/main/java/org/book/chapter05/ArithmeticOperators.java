@@ -8,6 +8,6 @@ public class ArithmeticOperators {
         System.out.printf("a - b = %d\n", a - b);
         System.out.printf("a * b = %d\n", a * b);
         System.out.printf("a / b = %d\n", a / b);
-        System.out.printf("a %% b = %d\n", a % b);
+        System.out.printf("a % b = %d\n", a % b);
     }
 }
