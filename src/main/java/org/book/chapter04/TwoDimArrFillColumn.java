@@ -13,7 +13,7 @@ public class TwoDimArrFillColumn {
         arr[4][2] = 1; // 4행 2열에 값 할당
 
         for (int i = 0; i < arr.length; i++) {
-            System.out.println(Arrays.toString(arr[0])); // 출력 할 때는 행 단위로 출력
+            System.out.println(Arrays.toString(arr[i])); // 출력 할 때는 행 단위로 출력
         }
     }
 }

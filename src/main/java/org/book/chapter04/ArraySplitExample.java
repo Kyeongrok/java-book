@@ -4,11 +4,9 @@ import java.util.Scanner;
 
 public class ArraySplitExample {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        String input = scanner.nextLine();
+        Scanner sc = new Scanner(System.in);
+        String input = sc.nextLine();
         String[] numbers = input.split(" ");
-        System.out.println(numbers[0]);
-        System.out.println(numbers[1]);
-        System.out.println(numbers[2]);
+        System.out.println(numbers[0] + numbers[1] + numbers[2]);
     }
 }
