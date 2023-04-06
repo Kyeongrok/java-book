@@ -5,5 +5,9 @@ public class MultiplicationTablePrint {
         System.out.printf("2 * 1 = 2\n");
         System.out.printf("2 * 2 = 4\n");
         System.out.printf("2 * 3 = 6\n");
+
+        for (int i = 2; 1 == 1; i++) {
+            System.out.println(i);
+        }
     }
 }
