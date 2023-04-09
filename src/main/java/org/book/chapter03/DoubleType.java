@@ -1,4 +1,4 @@
-package org.book.chapter06;
+package org.book.chapter03;
 
 public class DoubleType {
     public static void main(String[] args) {
