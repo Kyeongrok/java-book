@@ -4,7 +4,9 @@ public class DefineFloatAndDoubleVariable {
     public static void main(String[] args) {
         // float 변수 선언 및 초기화
         float f1 = 3.14f;
-        float f2 = 1.23e10f;
+        float f2 = 1.23e5f;
+        float f3 = 1.23e6f;
+        float f4 = 1.23e7f;
 
         // double 변수 선언 및 초기화
         double d1 = 3.141592653589793;
@@ -17,6 +19,8 @@ public class DefineFloatAndDoubleVariable {
         // float과 double 변수의 출력
         System.out.println("f1 = " + f1);
         System.out.println("f2 = " + f2);
+        System.out.println("f3 = " + f3);
+        System.out.println("f4 = " + f4);
         System.out.println("d1 = " + d1);
         System.out.println("d2 = " + d2);
         System.out.println("result1 = " + result1);
