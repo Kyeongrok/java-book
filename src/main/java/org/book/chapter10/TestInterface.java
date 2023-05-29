@@ -1,4 +1,4 @@
-package org.book.chapter09;
+package org.book.chapter10;
 
 public interface TestInterface {
     boolean isOk();

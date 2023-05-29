@@ -1,17 +1,22 @@
 package org.book.chapter06.p01;
 
 public class GetGrade {
-    public static void main(String[] args) {
-        int score = 75;
+    public int plus(int a, int b) {
+        return a + b;
+    }
 
-        if (score >= 90) {
+    public static void main(String[] args) {
+        GetGrade gg = new GetGrade();
+        gg.plus(10, 20);
+
+        int score = 90;
+        if(score >= 90){
             System.out.println("A");
-        } else if (score >= 80) {
+        } else if(score >= 80){
             System.out.println("B");
-        } else if (score >= 70) {
-            System.out.println("C");
-        } else {
-            System.out.println("F");
+        } else if(score >= 70){
+            System.out.println("B");
         }
+
     }
 }
