@@ -2,7 +2,7 @@ package org.book.chapter07;
 
 public class ParkingStation {
     public void pay(int amount) {
-        System.out.println("현금 결제가 완료되었습니다.");
+        System.out.println("결제가 완료되었습니다.");
     }
 
     public void pay(Ticket ticket){
@@ -10,6 +10,6 @@ public class ParkingStation {
     }
 
     public void pay(int amount, Ticket ticket) {
-        System.out.printf("할인된 금액 %d원이 결제 되었습니다.", amount);
+
     }
 }
