@@ -6,4 +6,8 @@ public class Customer1 {
     public Customer1(AudioInterface audioInterface) {
         this.audioInterface = audioInterface;
     }
+
+    public void listen() {
+        audioInterface.play("analog signal");
+    }
 }
