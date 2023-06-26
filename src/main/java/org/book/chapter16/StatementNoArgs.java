@@ -1,4 +1,4 @@
-package org.book.chapter15;
+package org.book.chapter16;
 
 @FunctionalInterface
 public interface StatementNoArgs {

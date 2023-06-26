@@ -1,4 +1,4 @@
-package org.book.chapter15;
+package org.book.chapter16;
 
 public class LambdaEx1 {
     public static void main(String[] args) {

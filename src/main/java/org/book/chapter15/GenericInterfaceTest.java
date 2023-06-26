@@ -1,4 +1,4 @@
-package org.book.chapter14;
+package org.book.chapter15;
 
 public class GenericInterfaceTest<T> {
     public static void main(String[] args) {
