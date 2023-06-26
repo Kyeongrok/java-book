@@ -1,4 +1,4 @@
-package org.book.chapter13;
+package org.book.chapter15;
 
 public class StatementWithArgTest {
     public static void main(String[] args) {

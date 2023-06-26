@@ -1,5 +1,6 @@
-package org.book.chapter13;
+package org.book.chapter15;
 
+@FunctionalInterface
 public interface StatementNoArgs {
     int calculate();
 }
