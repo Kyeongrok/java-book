@@ -10,7 +10,7 @@ public class ExceptionTryCatch {
             input = new Scanner(System.in).nextInt();
             try {
                 System.out.printf("%d로 나눈 몫은 %d입니다.\n", input, 100 / input);
-            } catch (Exception e) {
+            } catch (ArithmeticException e) {
                 System.out.printf("%d(으)로 나누는 것은 안됩니다. 다른 숫자를 입력 해주세요.\n", input);
             }
         } while(input != 9);
