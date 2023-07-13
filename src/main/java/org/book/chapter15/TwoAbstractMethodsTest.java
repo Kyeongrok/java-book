@@ -1,4 +1,4 @@
-package org.book.chapter16;
+package org.book.chapter15;
 
 public class TwoAbstractMethodsTest {
     public static void main(String[] args) {

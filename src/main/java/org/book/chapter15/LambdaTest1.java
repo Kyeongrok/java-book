@@ -1,4 +1,4 @@
-package org.book.chapter16;
+package org.book.chapter15;
 
 public interface LambdaTest1 {
     boolean check(int val1);

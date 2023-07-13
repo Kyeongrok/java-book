@@ -1,4 +1,4 @@
-package org.book.chapter16;
+package org.book.chapter15;
 
 public class StatementNoArgsTest2 {
     public static void main(String[] args) {
