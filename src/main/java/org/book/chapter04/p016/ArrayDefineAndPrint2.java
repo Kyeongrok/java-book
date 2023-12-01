@@ -1,4 +1,4 @@
-package org.book.chapter04;
+package org.book.chapter04.p016;
 
 public class ArrayDefineAndPrint2 {
     public static void main(String[] args) {
