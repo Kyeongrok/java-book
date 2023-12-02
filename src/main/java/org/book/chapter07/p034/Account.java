@@ -1,4 +1,4 @@
-package org.book.chapter07;
+package org.book.chapter07.p034;
 
 public class Account {
     int balance = 2000;

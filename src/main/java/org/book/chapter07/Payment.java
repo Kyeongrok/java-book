@@ -1,5 +1,7 @@
 package org.book.chapter07;
 
+import org.book.chapter07.p034.Account;
+
 public class Payment {
     public static void main(String[] args) {
         Account account = new Account();
