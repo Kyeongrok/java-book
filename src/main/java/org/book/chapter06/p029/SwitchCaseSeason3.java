@@ -1,4 +1,4 @@
-package org.book.chapter06.p01;
+package org.book.chapter06.p029;
 
 public class SwitchCaseSeason3 {
     public static void main(String[] args) {
