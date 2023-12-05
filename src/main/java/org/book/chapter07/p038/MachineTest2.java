@@ -8,11 +8,11 @@ public class MachineTest2 {
         machine1.enabled = true;
 
         Machine machine2 = new Machine();
-        machine1.id = 1;
-        machine1.name = "프레스2";
-        machine1.enabled = false;
+        machine2.id = 1;
+        machine2.name = "프레스2";
+        machine2.enabled = false;
 
-
-
+        System.out.printf("%s %s\n", machine1.name, machine1.onOff());
+        System.out.printf("%s %s\n", machine2.name, machine2.onOff());
     }
 }
