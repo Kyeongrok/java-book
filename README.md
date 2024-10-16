@@ -15,14 +15,14 @@
 
 ## 챕터별 코드 링크
 
-- [CHAPTER 02 입력과 출력](https://github.com/Kyeongrok/at-home-Bootcamp/tree/main/src/chapter02)
-- [CHAPTER 03 변수와 타입](https://github.com/Kyeongrok/at-home-Bootcamp/tree/main/src/chapter03)
-- [CHAPTER 04 배열](https://github.com/Kyeongrok/at-home-Bootcamp/tree/main/src/chapter04)
-- [CHAPTER 05 연산자](https://github.com/Kyeongrok/at-home-Bootcamp/tree/main/src/chapter05)
-- [CHAPTER 06 제어문](https://github.com/Kyeongrok/at-home-Bootcamp/tree/main/src/chapter06)
-- [CHAPTER 07 메서드](https://github.com/Kyeongrok/at-home-Bootcamp/tree/main/src/chapter07)
-- [CHAPTER 08 생성자](https://github.com/Kyeongrok/at-home-Bootcamp/tree/main/src/chapter08)
-- [CHAPTER 09 상속과 추상 클래스](https://github.com/Kyeongrok/at-home-Bootcamp/tree/main/src/chapter09)
-- [CHAPTER 10 인터페이스](https://github.com/Kyeongrok/at-home-Bootcamp/tree/main/src/chapter10)
-- [CHAPTER 11 자바 더 알아보기](https://github.com/Kyeongrok/at-home-Bootcamp/tree/main/src/chapter11)
+- [CHAPTER 02 입력과 출력](https://github.com/Kyeongrok/java-book/tree/main/src/main/java/chapter02)
+- [CHAPTER 03 변수와 타입](https://github.com/Kyeongrok/java-book/tree/main/src/main/java/chapter03)
+- [CHAPTER 04 배열](https://github.com/Kyeongrok/java-book/tree/main/src/main/java/chapter04)
+- [CHAPTER 05 연산자](https://github.com/Kyeongrok/java-book/tree/main/src/main/java/chapter05)
+- [CHAPTER 06 제어문](https://github.com/Kyeongrok/java-book/tree/main/src/main/java/chapter06)
+- [CHAPTER 07 메서드](https://github.com/Kyeongrok/java-book/tree/main/src/main/java/chapter07)
+- [CHAPTER 08 생성자](https://github.com/Kyeongrok/java-book/tree/main/src/main/java/chapter08)
+- [CHAPTER 09 상속과 추상 클래스](https://github.com/Kyeongrok/java-book/tree/main/src/main/java/chapter09)
+- [CHAPTER 10 인터페이스](https://github.com/Kyeongrok/java-book/tree/main/src/main/java/chapter10)
+- [CHAPTER 11 자바 더 알아보기](https://github.com/Kyeongrok/java-book/tree/main/src/main/java/chapter11)
 
